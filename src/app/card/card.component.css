@@ -1,0 +1,28 @@
+.card-title {
+    text-align: center;
+    font-size: 30px;
+}
+.card-text {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 0;
+}
+.card-img-bottom {
+    margin-bottom: 20px;
+    margin-top: 0;
+    width: 320px;
+    height: auto;
+    justify-content: center;
+    justify-content: space-around;
+}
+.card-body {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.row {
+    margin-right: 0;
+}
+.btn {
+    margin-left: 49%;
+    margin-top: 40px;
+}
